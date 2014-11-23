@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestDialAuto</string>
+    <string name="loc_prompt">Choose Location</string>
+    <string name="action_settings">Settings</string>
+    
+           
+     <string-array name="loc_arrays">
+        <item>Porur</item>
+        <item>Guindy</item>
+     </string-array>
+
+     </resources>
